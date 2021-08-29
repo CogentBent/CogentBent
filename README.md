@@ -1,6 +1,6 @@
 👋 Hi!  
 🌱 Currently looking for opportunities to work.  
-🔭 Interests: functionality, statistics, R, Tableau, economics, strategy, and project management.  
+🔭 Interests: functionality, project management, statistics, R, Tableau, economics, strategy, and complexity science.  
 🤔 Thinking about all the things.  
 👋 Dif-tor heh smusma. Live long and prosper. 
 
