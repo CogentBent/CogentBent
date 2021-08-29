@@ -1,5 +1,5 @@
 👋 Hi!
-🌱 Currently looking for opportunities to work.
+🌱 Currently looking for opportunities to work. 
 🔭 Interests: functionality, statistics, R, Tableau, economics, strategy, and project management. 
 🤔 Thinking about all the things.
 👋 Dif-tor heh smusma. Live long and prosper. 
